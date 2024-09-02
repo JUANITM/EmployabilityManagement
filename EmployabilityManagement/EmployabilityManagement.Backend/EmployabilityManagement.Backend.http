@@ -1,0 +1,6 @@
+@EmployabilityManagement.Backend_HostAddress = http://localhost:5287
+
+GET {{EmployabilityManagement.Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
